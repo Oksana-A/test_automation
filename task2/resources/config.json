@@ -1,0 +1,18 @@
+{
+"service_url":"https://httpbin.org/",
+"headers": {"test": "Test",
+            "TEST-2": "TS"
+            },
+ "valid_login_and_password": {
+                              "login": "user",
+                              "password": "password"
+                             },
+ "invalid_login_and_password": {
+                             "login": "user",
+                             "password": "pass"
+                            },
+ "params": {"param-1": "param",
+            "PARAM-2": "Param"
+             },
+ "data": "test"
+}
