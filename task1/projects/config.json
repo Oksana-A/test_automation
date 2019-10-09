@@ -1,0 +1,5 @@
+{
+  "browser_name": "ff",
+  "waiting_time": 180,
+  "implicitly_wait": 2
+}
